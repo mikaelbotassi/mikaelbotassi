@@ -1,16 +1,25 @@
-### Hi there 👋
+## Sobre Mim
 
-<!--
-**mikaelbotassi/mikaelbotassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, sou Mikael, um formando em Sistemas de Informação e desenvolvedor web.
 
-Here are some ideas to get you started:
+### Principais Stacks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Vue.js
+- Angular
+
+#### Backend
+- PHP
+- Laravel
+- Java
+- Spring Boot
+- TypeScript
+
+### Redes Sociais
+
+[![Instagram](https://img.shields.io/badge/Instagram-@mikael.botassi-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/mikael.botassi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mikael%20Botassi%20de%20Oliveira-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mikael-botassi-de-oliveira-bb5030218/)
+[![Gmail](https://img.shields.io/badge/Gmail-mikaelbotassi%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mikaelbotassi@gmail.com)
