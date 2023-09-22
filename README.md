@@ -1,6 +1,6 @@
 ## About Me
 
-Hello, I'm Mikael, a Computer Science graduate and web developer.
+Hello, I'm Mikael, a Systems Information graduate, Software Engineer and Graphic Designer.
 
 ### Main Stacks
 
