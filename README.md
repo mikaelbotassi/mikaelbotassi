@@ -15,7 +15,7 @@ Hello, I'm Mikael, a Computer Science graduate and web developer.
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="20" height="20"/> PHP
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="20" height="20"/> Laravel
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20"/> Java
-- <img src="[[[https://spring.io/images/spring-initial.png](https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png)](https://www.vhv.rs/dpng/d/458-4589658_spring-framework-logo-spring-boot-png-transparent-png.png)](https://www.clipartmax.com/png/small/117-1171017_spring-logo-spring-framework-logo.png)" alt="Spring Boot" width="20" height="20"/> Spring Boot
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="20" height="20"/> Spring
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20"/> TypeScript
 
 ### Social Media
