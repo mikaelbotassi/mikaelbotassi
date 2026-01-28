@@ -1,6 +1,6 @@
 ## About Me
 
-Hello everyone 👋, I'm Mikael Botassi, a Systems Information graduate, Software Engineer and Graphic Designer.
+Hello everyone 👋, I'm Mikael Botassi, a Systems Information graduated, Software Engineer and Graphic Designer.
 
 ### Main Stacks
 
