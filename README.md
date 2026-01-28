@@ -10,6 +10,7 @@ Hello everyone 👋, I'm Mikael Botassi, a Systems Information graduated, Softwa
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript
 - <img src="https://vuejs.org/images/logo.png" alt="Vue.js" width="20" height="20"/> Vue.js
 - <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" width="20" height="20"/> Angular
+- <img src="https://docs.flutter.dev/assets/images/flutter-logo-sharing.png" alt="Flutter" width="20" height="20"/> Flutter
 
 ### Social Media
 
